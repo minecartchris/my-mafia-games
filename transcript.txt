@@ -1,0 +1,102 @@
+======================================================================
+  AI MAFIA TRANSCRIPT  —  started 2026-03-22 21:25:26
+======================================================================
+
+  Players & roles:
+    Alice        MAFIA
+    Bob          MAFIA
+    Carol        MAFIA
+    Dave         VILLAGER
+    Eve          DOCTOR
+    Frank        VILLAGER
+    Grace        VILLAGER
+    Henry        DETECTIVE
+    Ivy          VILLAGER
+
+----------------------------------------------------------------------
+
+[21:25:29] R0 setup     Narrator     [narration]  The game of shadows begins. In the darkness, secrets hide behind closed doors, and allegiances are forged in the fires of trust. As the night wears on, the village must navigate the treacherous landscape of suspicion and deceit, for in this game of wits, only the strongest will prevail.
+[21:25:31] R1 day       Narrator     [narration]  The air is thick with tension as the players confer in hushed tones. The discussion is intense, with each individual weighing their options and considering the consequences of their actions. In the end, the fate of one of their own will be decided as the vote is cast...
+[21:25:32] R1 day       Eve          [speech]    "I'm not sure I trust anyone right now, but we can't just sit back and do nothing. I think we need to consider who might be behind this...and make sure we're not eliminating ourselves too quickly."
+[21:25:34] R1 day       Frank        [speech]    "I've been thinking about that, Eve. I'm not convinced that targeting just one person will solve anything - we need to look at patterns and connections. Anyone got any ideas on who might be hiding in plain sight?"
+[21:25:36] R1 day       Bob          [speech]    "I think we're getting a bit too caught up in trying to figure out who the problem is. We should focus on finding a way to work together, rather than trying to pin everything on one person. I've seen some pretty suspicious behavior from some of our own group, if you ask me..."
+[21:25:39] R1 day       Carol        [speech]    "I'm not sure I agree with Bob's assessment, guys. I think we're getting a bit too defensive already - if we start pointing fingers at each other, we'll just be creating more suspicion. Eve's idea of looking for patterns is a good one, though - let's keep an eye on who's been around the most, and see if anyone stands out as a repeat offender."
+[21:25:41] R1 day       Henry        [speech]    "I think we're being a bit too cautious, friends," I say with a gentle smile. "We need to consider the facts, not just rumors and speculation. Let's take a step back and look at the village's overall behavior, rather than focusing on individual suspects."
+[21:25:44] R1 day       Dave         [speech]    "I think we're all getting a bit too caught up in our own biases," I say, "Let's take a step back and look at the overall pattern. Who's been most present in the village? Who's shown up consistently and participated in the most conversations?"
+[21:25:46] R1 day       Alice        [speech]    "I think we're being a bit too focused on the suspects, rather than the motivations," I say with a concerned expression. "If we can identify what's driving this person's actions, we might be able to find a way to address it without pointing fingers at each other."
+[21:25:49] R1 day       Grace        [speech]    "I think we're all being a bit too cautious, just like Henry said," I say with a thoughtful expression. "We need to consider the facts, but we also need to trust our instincts. I think it's time to look at the village's actions and see if there's anyone who's consistently trying to undermine our efforts."
+[21:25:52] R1 day       Ivy          [speech]    "I think we're all being a bit too caught up in trying to find a logical explanation for the vote, but I do think it's worth considering the timing and the fact that it happened right after the town meeting. It seems like whoever cast the vote might have been trying to capitalize on the energy from the meeting, but I'm not sure who's behind it."
+[21:25:55] R1 day       Carol        [speech]    "I think Ivy's got a point about the timing, guys. Maybe we should look at who was most vocal about their concerns during the town meeting, and see if there's any overlap with the person who got voted out. Bob, can you remind us who some of the key players were in that discussion?"
+[21:25:58] R1 day       Grace        [speech]    "That's a great point, Ivy," I say, nodding my head. "The timing does seem suspicious, and I think it's definitely worth considering who was most vocal during the town meeting. Dave, can you remind us who was some of the most prominent participants in that discussion?"
+[21:26:01] R1 day       Henry        [speech]    "I think we're getting somewhere with this discussion, friends," I say, nodding in agreement. "Let's take a closer look at the town meeting and see if we can identify anyone who stood out as particularly vocal or passionate about their concerns. Perhaps we can find a connection between their actions and the outcome of the vote."
+[21:26:05] R1 day       Bob          [speech]    "I agree with Henry, let's focus on the town meeting and see if we can find any patterns or connections. I'm not saying anyone is guilty, but I do think we should be looking at who was most vocal during that discussion. Maybe we can even use Eve's idea of looking for patterns to identify any potential suspects."
+[21:26:07] R1 day       Eve          [speech]    "I think we're getting somewhere with the town meeting discussion, but let's not forget that Eve's idea of identifying patterns was to protect someone, not just to accuse others. Who were we protecting last night, exactly?"
+[21:26:10] R1 day       Frank        [speech]    "I think we're getting close to something, but I still feel like we're missing a crucial piece of the puzzle. Eve, you were the one who cast that vote - can you tell us what specifically led you to take that action, and was there anything that stood out to you as unusual or suspicious?"
+[21:26:15] R1 day       Ivy          [speech]    "I think Eve's right to point out that we need to consider the motivations behind the vote, and I have to admit that I've been wondering about that myself. I've been keeping an eye on Eve's behavior, and while she seems like a solid player, I do think there's something that might be worth exploring further. Did anyone notice anything unusual about Eve's behavior or tone during the discussion that might be worth looking into?"
+[21:26:20] R1 day       Alice        [speech]    "I think we're all just trying to do what's best for the village, but we need to make sure we're not jumping to conclusions," I say, trying to sound concerned and innocent. "Maybe we should just focus on keeping an eye on everyone's behavior and see if anyone stands out as...different. I mean, it's not like we're suspecting anyone of anything, right?"
+[21:26:25] R1 day       Dave         [speech]    "I think we're all on the same page with focusing on the town meeting discussion, but I do want to highlight one thing that stood out to me - Ivy was notably absent from the conversation that followed the vote, which caught my attention. I'm not sure if that's a coincidence or something more, but I think it's worth investigating further. Can we look at Ivy's participation during the meeting and see if there's any correlation with the outcome?"
+[21:26:27] R1 day       Narrator     [narration]  The villagers gather, their eyes locked on the innocent-looking faces, each one weighing the delicate balance of trust and deceit. The whispers begin, a cacophony of suspicion and accusation, as they deliberate on who among them will be cast into the darkness. Tonight, the village will decide the fate of... [Voting options appear on screen]
+[21:26:28] R1 day       Alice        [vote]      I vote to eliminate Bob.
+[21:26:30] R1 day       Bob          [vote]      I vote to eliminate Henry.
+[21:26:31] R1 day       Carol        [vote]      I vote to eliminate Henry.
+[21:26:32] R1 day       Dave         [vote]      I vote to eliminate Grace.
+[21:26:33] R1 day       Eve          [vote]      I vote to eliminate Henry.
+[21:26:34] R1 day       Frank        [vote]      I vote to eliminate Henry.
+[21:26:35] R1 day       Grace        [vote]      I vote to eliminate Henry.
+[21:26:36] R1 day       Henry        [vote]      I vote to eliminate Ivy.
+[21:26:37] R1 day       Ivy          [vote]      I vote to eliminate Henry.
+[21:26:40] R1 day       Narrator     [narration]  As the shadows of the underworld darken, a silent assassin has struck, leaving a legacy of deceit and betrayal in their wake. Henry's demise serves as a stark reminder that in this game of power and loyalty, no one is truly safe from the merciless hand of fate. The remaining 8 players must now navigate the treacherous landscape with renewed caution and cunning.
+
+  ✘ Henry voted out (was DETECTIVE)
+
+[21:26:43] R2 night     Narrator     [narration]  In the darkness, the Nightwalkers emerge, their presence masked by the faint flicker of torches. A figure cloaked in darkness lingers in the alleyway, eyes fixed on a unsuspecting villager, while another slips into the nearby tavern, seeking to strike while the innocent slumber. Meanwhile, the wind whispers secrets in the ears of the few who dare to listen.
+[21:26:44] R2 night     Alice        [whisper]   Tonight, we eliminate Dave.
+[21:26:46] R2 night     Eve          [whisper]   Tonight I will protect Eve.
+[21:26:48] R2 night     Narrator     [narration]  A chill runs down the spine as the village erupts into chaos. The trusted dweller, Dave, a pillar of the community, has fallen victim to a brutal murder. As the surviving villagers reel from the shock, the darkness that lurks within their midst seems to deepen, fueling a maelstrom of suspicion and fear.
+
+  ✘ Dave eliminated (was VILLAGER)
+
+[21:26:50] R2 day       Narrator     [narration]  The tension is palpable as the remaining players convene in the dimly lit chamber, their eyes locked in a fierce dance of suspicion and calculation. Alice proposes a vote to remove Frank, citing his dubious connections to the underbelly of the organization. Frank's fate hangs precariously in the balance, as the group waits with bated breath for the outcome.
+[21:26:54] R2 day       Grace        [speech]    "I think we're all on edge after what happened to Dave," I say, my voice laced with concern. "I'm inclined to trust our instincts and take a closer look at Frank's actions - has anyone noticed anything unusual about his behavior lately?"
+[21:26:58] R2 day       Frank        [speech]    "I don't think we should be jumping to conclusions about Frank just yet, Grace," I say, trying to keep my tone neutral. "We need to keep an eye on his behavior, but we also need to make sure we're not making assumptions based on rumors and speculation. Has anyone noticed anything specific that's led you to suspect him?"
+[21:27:03] R2 day       Eve          [speech]    "I think we need to take a step back and consider the bigger picture here," I say, trying to keep my voice even. "We've already lost one of us, and we can't afford to make another mistake. Let's focus on finding out what really happened to Dave, rather than targeting each other."
+[21:27:08] R2 day       Ivy          [speech]    "I agree with Eve that we need to focus on finding out what really happened to Dave, but I also think we can't just let Frank go without keeping an eye on him. I've noticed that he's been acting a bit evasive when we talk about the vote, and I think it's worth looking into. Eve, can you tell me more about what you saw happen last night, and if you noticed anything suspicious?"
+[21:27:16] R2 day       Alice        [speech]    "I think we're all trying to process what happened to Dave, but I'm more concerned about the timing of the vote," I say, trying to sound nonchalant. "I've been thinking about how long it took for the vote to be cast, and I wonder if that's a coincidence or something more. Maybe we should take a closer look at the voting process to see if there's anything unusual about it."
+[21:27:21] R2 day       Bob          [speech]    "I think we're getting caught up in trying to analyze every little detail, and that's not what this is about," I say, trying to sound calm and collected. "We need to focus on the bigger picture and work together to figure out what really happened to Dave, rather than getting bogged down in speculation and rumors."
+[21:27:26] R2 day       Carol        [speech]    "I think we're all on the same page about not wanting to jump to conclusions, but I do think we need to look at Frank's behavior a bit closer," I say, trying to sound concerned and innocent. "I've noticed that he seemed a bit...distracted during the discussion, and I wonder if that's worth investigating further."
+[21:27:35] R2 day       Alice        [speech]    "I think we're all trying to be cautious, but I think it's natural to have some concerns about Frank's behavior," I say, trying to sound understanding. "At the same time, I don't want to make any accusations or jump to conclusions, but maybe we can just keep an eye on him and see how he reacts to our conversations about the vote."
+[21:27:41] R2 day       Eve          [speech]    "I'm glad we're all on the same page, but I think we need to take it a step further," I say, trying to sound calm and collected. "Let's create a list of everyone's actions and statements from the past night, and then we can review it together to see if we can identify any patterns or red flags."
+[21:27:47] R2 day       Frank        [speech]    "I agree with Eve that creating a list of everyone's actions and statements is a great idea, but I also think we should include Grace's suggestion to look into the voting process as well. Maybe we can find any discrepancies or patterns that might give us a clue about what really happened to Dave. Ivy, would you be willing to help us compile the list and review it together?"
+[21:27:54] R2 day       Ivy          [speech]    "I agree with Eve that creating a list of everyone's actions and statements is a good idea, and I'd be happy to help compile it. I think it's also a good idea to include a note about the voting process, as Alice mentioned, since the timing of the vote seemed a bit off. I'll start making a list and see if I can find any connections or patterns that might be worth investigating further."
+[21:28:02] R2 day       Bob          [speech]    "I think we're all covering our bases with this list and the discussion about the voting process, but I still want to emphasize that we need to be careful not to jump to conclusions or make assumptions about each other's intentions. Let's keep an open mind and see if we can find any clues that might help us uncover what really happened to Dave. Ivy's list will be a big help in that regard, I'm sure."
+[21:28:08] R2 day       Carol        [speech]    "I think Ivy's list is a great idea, and I'm glad we're all on the same page about being cautious. I've been thinking about the voting process, and I've noticed that Eve was the one who cast the vote to eliminate Dave. Does anyone have any insight into why Eve might have done that?"
+[21:28:14] R2 day       Grace        [speech]    "That's an interesting observation, Carol," I say, raising an eyebrow. "I think Eve's vote to eliminate Dave does seem suspicious, and I'm inclined to think that there might be more to it than just a coincidence. Has anyone considered the possibility that Eve might have been trying to send a message or create a distraction?"
+[21:28:16] R2 day       Narrator     [narration]  The air is thick with tension as the villagers deliberate, their faces illuminated only by the flickering torches that line the town square. The fate of one of their own hangs in the balance, as the villagers consider which culprit to send to the town square, never to return. Will it be the charmer with a silver tongue, or perhaps the enigmatic stranger with an air of mystery?
+[21:28:20] R2 day       Alice        [vote]      I vote to eliminate Grace.
+[21:28:23] R2 day       Bob          [vote]      I vote to eliminate Carol.
+[21:28:26] R2 day       Carol        [vote]      I vote to eliminate Eve.
+[21:28:28] R2 day       Eve          [vote]      I vote to eliminate Carol.
+[21:28:31] R2 day       Frank        [vote]      I vote to eliminate Eve.
+[21:28:33] R2 day       Grace        [vote]      I vote to eliminate Carol.
+[21:28:35] R2 day       Ivy          [vote]      I vote to eliminate Eve.
+[21:28:38] R2 day       Narrator     [narration]  As the lifeless body of Eve is dragged away, the remaining players can't help but feel a chill run down their spines. The air is thick with tension, the only sound the soft hum of the mafia's sinister machinery. Six players remain, each with a secret, but none are immune to the wrath of the mafia's wrath.
+
+  ✘ Eve voted out (was DOCTOR)
+
+[21:28:40] R2 end       Narrator     [narration]  (In a deep, ominous voice) The once-peaceful village lies in ruins, its citizens enslaved by the ruthless grip of the mafia. The sounds of screams and despair echo through the streets as Alice, Bob, and Carol revel in their triumphant victory. The era of darkness has begun, and the innocent will never be seen again.
+
+======================================================================
+  GAME OVER — winner: MAFIA
+  Ended: 2026-03-22 21:28:40
+
+  Final player status:
+    Alice        MAFIA        alive
+    Bob          MAFIA        alive
+    Carol        MAFIA        alive
+    Dave         VILLAGER     eliminated
+    Eve          DOCTOR       eliminated
+    Frank        VILLAGER     alive
+    Grace        VILLAGER     alive
+    Henry        DETECTIVE    eliminated
+    Ivy          VILLAGER     alive
+======================================================================
