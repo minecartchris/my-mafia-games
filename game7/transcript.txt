@@ -1,0 +1,317 @@
+======================================================================
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 01:44:09
+=
+
+  Roles assigned:
+    Alice        MAFIA
+    Bob          VILLAGER
+    Carol        DETECTIVE
+    Dave         VILLAGER
+    Eve          MAFIA
+    Frank        DOCTOR
+    Grace        VILLAGER
+    Henry        VILLAGER
+    Ivy          VILLAGER
+
+----------------------------------------------------------------------
+
+[01:44:14] R0 setup     Narrator     [narration]   The air is thick with tension as the players await their fate, each one suspecting that one of their own may be hiding in the shadows. The game begins with a single player, "John," who proposes a vote to lynch a player. Will the innocent be spared, or will the mafia's sinister plot unfold?
+[01:44:16] R1 day       Narrator     [narration]   The air is thick with tension as the remaining players convene in the dimly lit tavern. Alice suggests a cautious approach, while Bob proposes a bold move, sparking a heated debate. As the discussion dies down, Frank makes a calculated decision, whispering a single word: "Night".
+[01:48:09] R1 day       Bob          [speech]      I think we should take Frank's clue seriously but hold off on a lynch until we hear more
+[01:48:21] R1 day       Carol        [speech]      Carol: "I agree with Bob, Frank's clue was intriguing, but we need more information before making a rash decision. Let's wait for more clues before proceeding with a lynch."
+[01:48:32] R1 day       Frank        [speech]      "I appreciate the cautious approach, but I still believe we should act swiftly. Frank's clue might be a clever distraction, but it doesn't change the fact that we have a potential target. Let's not let our guard down too soon. We should discuss a plan to vote in the morning."
+[01:49:00] R1 day       Ivy          [speech]      
+[01:49:12] R1 day       Grace        [speech]      <think>
+Okay, so I'm Grace, the VILLAGER in Mafia, and I just got to be the first in the game. I've been through a few rounds already, and now it's my turn to speak. The game events so far have started, with John proposing a vote to lynch a player. The players are Alice, Bob, Carol, Dave, Eve, Frank, Henry, Ivy, and me. 
+
+I'm already in this position, but I need to figure out who's who. The first thing I notice is that John proposes this vote to lynch
+[01:49:19] R1 day       Alice        [speech]      "I think we should all take a step back and consider the bigger picture here," I say with a gentle tone, trying to deflect suspicion onto the group. "We can't just jump to conclusions based on a single proposal. Let's focus on getting to know each other better and seeing if we can find any patterns or inconsistencies among us."
+[01:49:30] R1 day       Eve          [speech]      Grace: "Alice's words resonate with me. We should indeed focus on understanding each other better before casting any judgments. Let's ensure we're all on the same page and not act hastily."
+[01:49:42] R1 day       Dave         [speech]      <think>
+
+Alright, let's see. So, in the Mafia game, I'm the Villager Grace. The current situation is that John proposed a lynch vote, and the players are discussing how to proceed. The key points here are:
+
+1. The group is deciding whether to lynch someone based on the initial proposal from John.
+2. Bob thinks Frank's clue is important but wants more info before lynching.
+3. Carol agrees with Bob about waiting for more clues.
+4. Frank is pushing to act quickly, suggesting a potential target.
+5. Alice and Eve want to avoid rushing and
+[01:49:53] R1 day       Henry        [speech]      "I agree with Alice and Eve that we should take a cautious approach. It's crucial that we don't jump to conclusions, especially since we're just starting out. Let's focus on getting to know each other better and see if we can find any patterns or inconsistencies among us."
+[01:50:05] R1 day       Dave         [speech]      <think>
+Okay, let me try to figure this out. So, in the Mafia game, I'm Grace, the Villager. The game has started, and John proposed a lynch vote. The players—Alice, Bob, Carol, Dave, Eve, Frank, Henry, Ivy, and me—are discussing what to do next.
+
+First, Alice says we shouldn't jump to conclusions and get to know each other better. Eve agrees with her. Then Bob and Carol both think Frank's clue is important but want more info before lynching. Frank, on the other hand, wants to act
+[01:50:16] R1 day       Grace        [speech]      <think>
+Alright, so it's Grace's turn again. The game is currently going into the second round with John proposing a lynch vote. The players are Alice, Bob, Carol, Dave, Eve, Frank, Henry, Ivy, and Grace herself. 
+
+First, Alice suggests taking it slowly and getting to know each other better. She emphasizes caution to ensure we don't make rash decisions. 
+
+Bob and Carol agree that Frank's clue is important but want more information before acting. Frank agrees with them and thinks the lynch attempt might be a distraction. 
+
+Then, Dave and Henry suggest
+[01:51:41] R1 day       Bob          [speech]      
+[01:52:08] R1 day       Frank        [speech]      "I think we should take a moment to consider the possibility that Frank's clue was indeed a distraction. If that's the case, we might be able to use this to our advantage. Let's discuss a plan to gather more information and observe the others' actions before making any final decisions."
+[01:52:22] R1 day       Eve          [speech]      Grace: "I concur with Frank. We should use this to our advantage. Let's observe everyone's actions carefully and gather more information before making any final decisions."
+[01:52:35] R1 day       Carol        [speech]      Carol: "I agree with Bob, Frank's clue was intriguing, but we need more information before making a rash decision. Let's wait for more clues before proceeding with a lynch."
+[01:53:20] R1 day       Ivy          [speech]      
+[01:53:33] R1 day       Henry        [speech]      "I agree with Frank and Eve that we should observe everyone's actions carefully. It's crucial to gather as much information as possible before making any final decisions. Let's keep a close eye on each other and see if anyone acts suspiciously."
+[01:53:41] R1 day       Alice        [speech]      "I think we're getting a bit too caught up in analyzing Frank's clue," I say with a smile, trying to steer the conversation towards more lighthearted topics. "Let's not forget that we're all in this together, and we should focus on building a community rather than jumping to conclusions. What are everyone's favorite pastimes or hobbies?"
+[01:53:44] R1 day       Narrator     [narration]   The air is thick with tension as the villagers gather to cast their ballots. The fate of one of their own hangs in the balance, as they weigh the risks and rewards of eliminating a potential threat. Will it be [player's name], with their suspicious past and enigmatic smile, or perhaps another villager entirely?
+[01:53:45] R1 day       Alice        [vote]        I vote to eliminate Bob.
+[01:55:57] R1 day       Bob          [vote]        I vote to eliminate Frank.
+[01:56:08] R1 day       Carol        [vote]        I vote to eliminate Frank.
+[01:56:22] R1 day       Dave         [vote]        I vote to eliminate Alice.
+[01:56:32] R1 day       Eve          [vote]        I vote to eliminate Dave.
+[01:56:40] R1 day       Frank        [vote]        I vote to eliminate Carol.
+[01:56:51] R1 day       Grace        [vote]        I vote to eliminate Alice.
+[01:56:59] R1 day       Henry        [vote]        I vote to eliminate Carol.
+[01:57:37] R1 day       Ivy          [vote]        I vote to eliminate Henry.
+[01:57:44] R1 day       Narrator     [narration]   The streets of Little Italy run red with betrayal as the innocent fall to the merciless hands of their former comrades. The remaining 8 players are left to pick up the pieces of their shattered alliances, forever changed by the brutal fate of Alice. Will the mobsters continue to reign supreme, or will a new threat emerge from the shadows?
+
+  ✘ Alice voted out (was MAFIA)
+
+[01:57:46] R2 night     Narrator     [narration]   In the darkness, whispers spread like wildfire: "The traitor lurks, waiting to strike." A lone figure stirs in the abandoned windmill, their footsteps echoing through the deserted streets. The village cowers, unaware of the hidden hands that will soon bring ruin.
+[01:57:57] R2 night     Eve          [whisper]     I vote to eliminate Henry.
+[01:58:05] R2 night     Frank        [whisper]     Tonight I will protect Eve.
+[01:58:15] R2 night     Carol        [whisper]     My investigation tonight focuses on Eve.
+[01:58:21] R2 night     Narrator     [narration]   The moon casts an eerie glow over the deserted alleyway, where the lifeless body of Henry, a villager, lies before the stunned gaze of the remaining villagers. The air is heavy with the weight of grief, as the truth begins to unravel like a thread pulled from a worn tapestry. But in the shadows, whispers of suspicion begin to spread, like a cold breeze that sends shivers down the spines of the innocent.
+
+  ✘ Henry eliminated at night (was VILLAGER)
+
+[01:58:24] R2 day       Narrator     [narration]   The air is thick with tension as the remaining players gather around the table, their eyes locked in a silent struggle for survival. The conversation is laced with subtle allusions and veiled accusations, as each player weighs their options and considers the consequences of their actions. In the midst of this toxic atmosphere, the voting begins, and the fate of one of the players hangs precariously in the balance.
+[01:58:59] R2 day       Ivy          [speech]      
+[01:59:15] R2 day       Dave         [speech]      <think>
+Okay, let me try to figure out what's going on here. So, there was a Mafia game scenario, and some players got eliminated. Alice was voted out as Mafia. Then at night, Henry was targeted by the Mafia and got eliminated, but it turned out he was a Villager. Now, the remaining players are talking, and the next part is the first turn of discussion.
+
+Wait, the user is asking me to respond as a character in the game, right? The last message says "It is your turn to speak. Discussion turn 1. Reply as your character
+[01:59:27] R2 day       Grace        [speech]      <think>
+Okay, let's see. It's my turn to speak in the game scenario. The game so far has had Alice, Henry, and Ivy eliminated. Now, the remaining players—Alice, Bob, Carol, Dave, Eve, Frank, Henry, and Ivy—are in the process of casting their votes.
+
+I need to decide who's left to vote and what their choice should be. The options are Alice, Bob, Carol, Dave, Eve, Frank, Henry, or Ivy.
+
+So, looking at the votes so far: Alice has voted against Bob, Frank, Carol, Dave
+[01:59:38] R2 day       Carol        [speech]      Carol: "I agree with Bob. Let's wait for more clues before voting."
+[01:59:51] R2 day       Frank        [speech]      "I think we should take a moment to assess the situation and consider all the evidence before casting our votes. Let's discuss any new clues or observations we have and then make a decision."
+[02:00:06] R2 day       Eve          [speech]      Grace: "I agree with Frank. Let's take our time and carefully consider all the evidence before making a decision."
+[02:01:17] R2 day       Bob          [speech]      
+[02:01:28] R2 day       Bob          [speech]      I’m leaning toward keeping the focus on anyone who’s been unusually eager to push a lynch; let’s watch how they react before we commit to a vote.
+[02:01:47] R2 day       Eve          [speech]      Bob: "I propose we focus our suspicions on those eager for a quick lynch, like Eve and Alice. Their haste could indicate they're trying to mislead us."
+[02:02:06] R2 day       Frank        [speech]      "I think Bob's suggestion makes sense. Let's pay close attention to Eve and Alice's behavior and see if they continue to push for a lynch vote. If they do, it might indicate they're trying to mislead us, but we should also be cautious not to jump to conclusions."
+[02:02:24] R2 day       Dave         [speech]      <think>
+Okay, let's see. The user is role-playing in a Mafia game scenario. The current situation is that after some eliminations (Alice and Henry), the remaining players are discussing their votes. The user is now acting as Grace, and it's turn 2 of the discussion.
+
+Looking at the previous interactions: Grace initially voted against Alice. Then Eve and Frank supported Grace's stance. Now, in turn 2, other players like Bob and Eve have spoken. Bob suggests focusing on those pushing for a lynch (Eve and Alice), while Eve counters by also targeting them. Frank
+[02:02:36] R2 day       Carol        [speech]      Carol: "I agree with Bob. Let's wait for more clues before voting."
+[02:02:49] R2 day       Grace        [speech]      <think>
+Okay, let's break this down. It's my turn to speak in the game scenario. The game so far has had Alice, Henry, and Ivy eliminated. Now, the remaining players are Dave, Bob, and Eve.
+
+Dave initially suggested they watch their actions closely, wanting to avoid making rash decisions based on a single vote. Bob, on the other hand, thinks they should focus on those pushing for a lynch (Eve and Alice) to see if they're continuing to act suspiciously. Eve, responding to Bob's suggestion, supports him in that direction.
+
+Frank"
+[02:03:31] R2 day       Ivy          [speech]      
+[02:03:38] R2 day       Narrator     [narration]   The tension is palpable as the villagers deliberate, each weighing the pros and cons of their fellow human with cold, calculating eyes. In the shadows, allegiances are tested and tempers fray, all while the stakes of survival hang precariously in the balance. Who will fall first, and who will be spared?
+[02:04:55] R2 day       Bob          [vote]        I vote to eliminate Grace.
+[02:05:09] R2 day       Carol        [vote]        I vote to eliminate Eve.
+[02:05:27] R2 day       Dave         [vote]        I vote to eliminate Bob.
+[02:05:47] R2 day       Eve          [vote]        I vote to eliminate Carol.
+[02:05:57] R2 day       Frank        [vote]        I vote to eliminate Eve.
+[02:06:12] R2 day       Grace        [vote]        I vote to eliminate Bob.
+[02:07:03] R2 day       Ivy          [vote]        I vote to eliminate Bob.
+[02:07:10] R2 day       Narrator     [narration]   The streets run red with betrayal as Bob's lifeless body hits the floor, a victim of the merciless plot. The 6 remaining players must now regroup, reassess, and rearm for the deadly game ahead, but beware, for in the shadows, eyes are always watching, and allegiances are made to be broken. The game is far from over, and the stakes have just gotten deadly.
+
+  ✘ Bob voted out (was VILLAGER)
+
+[02:07:13] R3 night     Narrator     [narration]   In the darkness, the assassins and spies weave their sinister threads, striking with ruthless efficiency, as the innocent villagers slumber unaware of the danger lurking in the night. The howling wind whispers secrets to the tombstones, where the restless spirits of the dead reside. Meanwhile, the traitors conspire in hushed tones, their eyes gleaming with avarice in the flickering candlelight.
+[02:07:33] R3 night     Eve          [whisper]     I vote to eliminate Dave.
+[02:07:44] R3 night     Frank        [whisper]     Tonight I will protect Carol.
+[02:07:56] R3 night     Carol        [whisper]     My investigation tonight focuses on Eve.
+[02:08:02] R3 night     Narrator     [narration]   In the dead of night, the village was shaken to its core as the lifeless body of Dave was discovered, a victim of the very evil that had haunted their home. The once hopeful community was now plunged into darkness, as suspicion and fear gripped the hearts of the remaining villagers. Only time would tell if their friendship and loyalty could save them from the clutches of the merciless Mafia.
+
+  ✘ Dave eliminated at night (was VILLAGER)
+
+[02:08:04] R3 day       Narrator     [narration]   As the players congregate, alliances begin to crumble, and suspicion hangs in the air. Frank proposes a cautious vote, targeting the newcomers, while Eve counters with a fiery argument, demanding the removal of the most ruthless faction leader. Meanwhile, Carol, shrouded in mystery, makes a calculated move, suggesting a vote for... Frank.
+[02:08:42] R3 day       Ivy          [speech]      
+[02:08:58] R3 day       Carol        [speech]      Carol: "I agree with Eve. Let's take our time and carefully consider all the evidence before making a decision."
+[02:09:21] R3 day       Eve          [speech]      Eve: "I agree with Carol and Eve. We should take our time and carefully consider all the evidence before making a decision. Let's not rush into a vote without fully understanding the situation."
+[02:09:33] R3 day       Grace        [speech]      <think>
+Okay, so after Bob, Carol, Dave, Eve, and Frank have made their votes in this turn of the game. The players are now trying to make their final moves before the votes are counted. The focus is on figuring out who should be eliminated first and what the next move should be.
+
+Looking at the votes so far: Bob and Carol voted against Eve, Dave and Frank voted against Bob, and Eve and Carol agreed that Dave should be eliminated.
+
+Frank suggests that Frank should be on the watch and protect Carol. Carol, on her turn, says that she agrees with Bob and
+[02:09:55] R3 day       Frank        [speech]      "I think we should discuss the evidence we have and try to piece together who the Mafia members might be. We should also consider the possibility that one of us is a spy or double agent. Let's talk about our observations and plans for the next steps."
+[02:10:02] R3 day       Frank        [speech]      "I think we should focus on the clues and evidence we have so far. Let's discuss the possibility of a spy or double agent in the group and try to identify any suspicious behavior or inconsistencies. We should also consider the strengths and weaknesses of each player and how they might fit the Mafia profile."
+[02:10:18] R3 day       Carol        [speech]      Carol: "I agree with Frank. Let's take our time and carefully consider all the evidence before making a decision."
+[02:10:43] R3 day       Eve          [speech]      Grace: "I agree with Frank and Carol. Let's focus on the evidence and consider the possibility of a spy or double agent within our ranks. We need to carefully analyze each other's actions and words."
+[02:10:57] R3 day       Grace        [speech]      <think>
+Alright, let's break this down. It's my turn to speak in the game scenario. The game has been running, and after some eliminations, we're now looking to make our final moves before the votes are counted.
+
+Looking at the votes so far: Bob, Carol, Dave, Eve, and Frank have made their decisions. Bob and Carol voted against Eve, Dave and Frank voted against Bob, and Eve and Carol agreed that Dave should be eliminated.
+
+Now, Frank suggests discussing the evidence and considering the possibility of a spy or double agent. Carol agrees with Frank and suggests focusing
+[02:11:46] R3 day       Ivy          [speech]      
+[02:11:53] R3 day       Narrator     [narration]   The weight of decision hangs heavy in the air as the villagers gather to cast their votes. The fate of the newcomer, a charismatic figure with an air of mystery, hangs precariously in the balance. Will it be "The Enigma" who walks the plank, or will the village choose to save this enigmatic stranger from the jaws of destruction?
+[02:12:08] R3 day       Carol        [vote]        I vote to eliminate Eve.
+[02:12:34] R3 day       Eve          [vote]        I vote to eliminate Carol.
+[02:12:47] R3 day       Frank        [vote]        I vote to eliminate Eve.
+[02:13:01] R3 day       Grace        [vote]        I vote to eliminate Carol.
+[02:13:54] R3 day       Ivy          [vote]        I vote to eliminate Eve.
+[02:14:01] R3 day       Narrator     [narration]   The shadows cast by the departed, a silent assassin. Eve's memory now joins the ranks of the fallen, her elimination a stark reminder that in this treacherous world, loyalty is a luxury few can afford. The remaining players must now steel themselves for the trials ahead, their eyes fixed on the remaining faces of their supposed allies.
+
+  ✘ Eve voted out (was MAFIA)
+
+[02:14:04] R3 end       Narrator     [narration]   But amidst the jubilation, whispers of "who was behind the mask?" linger in the air. A select few, once masters of deception, now walk free, their allegiances hidden once more. The true nature of the game remains shrouded in mystery, as the survivors bask in the fleeting glow of victory.
+
+======================================================================
+  GAME OVER — winner: VILLAGE
+  Ended: 2026-03-23 02:14:04
+
+  Final player status:
+    Alice        MAFIA        eliminated
+    Bob          VILLAGER     eliminated
+    Carol        DETECTIVE    alive
+    Dave         VILLAGER     eliminated
+    Eve          MAFIA        eliminated
+    Frank        DOCTOR       alive
+    Grace        VILLAGER     alive
+    Henry        VILLAGER     eliminated
+    Ivy          VILLAGER     alive
+======================================================================
