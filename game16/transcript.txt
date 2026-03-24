@@ -1,0 +1,290 @@
+======================================================================
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 23:22:00
+=
+
+  Roles assigned:
+    Alice        VILLAGER
+    Bob          VILLAGER
+    Carol        DOCTOR
+    Dave         VILLAGER
+    Eve          DETECTIVE
+    Frank        MAFIA
+    Grace        MAFIA
+    Henry        VILLAGER
+    Ivy          VILLAGER
+
+----------------------------------------------------------------------
+
+[23:22:08] R0 setup     Narrator     [narration]   The lights flicker, casting an ominous glow on the faces of the unsuspecting players. The air is thick with tension as alliances are formed and tempers fray, all while the silent assassins lurk in the shadows, biding their time. The game has begun, but at what cost will you pay to survive?
+[23:22:11] R1 day       Narrator     [narration]   The air is thick with tension as the 9 remaining players gather to discuss their fate. Allegiances are tested and deals are whispered in the shadows. With no clear leader emerging, a fractured coalition of interests takes shape, setting the stage for the inevitable showdown. The votes are cast, revealing two names: Frank and Ivy, who will meet their demise at the hands of their unsuspecting peers.
+[23:22:31] R1 day       Henry        [speech]      I think we should be cautious about voting off Ivy based on rumors alone. Frank seems suspicious with his nervous behavior, and I've noticed that he's been speaking out of turn during our discussions. Let's keep an eye on him before making any hasty decisions.
+[23:22:36] R1 day       Grace        [speech]      "I understand the concerns about Frank, but we shouldn't jump to conclusions. I think we should wait and observe his actions further before deciding what to do. Ivy's situation seems uncertain, but let's not overlook potential threats closer to home."
+[23:22:46] R1 day       Dave         [speech]      As Dave, I observe the players' dynamics carefully. Frank's nervousness is notable, but we should remain cautious in our conclusions. Let's continue gathering information and avoid hasty decisions.
+[23:22:57] R1 day       Frank        [speech]      "I appreciate the concern, Henry and Dave. I understand the need for caution, but we must remember that suspicion alone isn't enough to warrant elimination. Let's focus on observing everyone's actions and making decisions based on concrete evidence."
+[23:23:05] R1 day       Alice        [speech]      "I'm a bit concerned about Ivy being voted off, but I think Henry might be right to keep an eye on Frank's behavior. There was something about his tone during the discussion that seemed slightly off, and it's always better to err on the side of caution when it comes to potential threats."
+[23:23:13] R1 day       Bob          [speech]      Alice has already pointed out Frank's tone change during discussions, which caught my attention. Given the tension and recent vote outcome, it seems prudent for us to keep a close eye on all players who have shown signs of nervousness or inconsistency since joining our conversation. It would be wise to ensure that any potential threats are brought to light before making decisions that could harm anyone else in this already fragile alliance.
+[23:23:53] R1 day       Eve          [speech]      As Eve, nodding in agreement with the cautious sentiments being shared, "I concur, we must proceed with meticulous observation, ensuring every action is scrutinized before any further accusations are made."
+[23:24:05] R1 day       Ivy          [speech]      Ivy: "I appreciate everyone's concerns and suggestions. As a group, let's focus on observing everyone closely, including ourselves. We should keep an open mind and not rush into any decisions that could potentially harm an innocent player."
+[23:24:20] R1 day       Carol        [speech]      Alice: "Given the recent events and the discussions we've had, I believe it's crucial for us to maintain vigilance. Let's continue observing each other closely, ensuring that no one slips through the cracks unnoticed. We need to stay united and focused on protecting our own while keeping a keen eye on potential threats. As for Ivy's situation, I trust her for now but will remain cautious."
+[23:24:35] R1 day       Grace        [speech]      "I understand the need for caution and careful observation. Let's continue to keep an eye on Frank's behavior, as well as everyone else's. We must remember that we're all in this together, but it's important to prioritize our own safety above all."
+[23:24:52] R1 day       Carol        [speech]      Alice: "As we continue to navigate through this complex web of alliances and suspicions, it's crucial that we maintain a delicate balance between caution and vigilance. Let's keep our eyes peeled for any signs of trouble, while also ensuring that we don't overlook potential threats lurking among us. We must work together to protect ourselves from harm, but at the same time, we need to stay alert to any red flags that may arise."
+[23:25:06] R1 day       Eve          [speech]      "Let's prioritize discretion and avoid drawing unnecessary attention to ourselves while continuing our watchful stance," Eve advises, maintaining a careful neutrality that conceals her detective identity.
+[23:25:16] R1 day       Alice        [speech]      "I'd like to add my thoughts to the discussion by saying that I think we're all being cautious for good reason, but perhaps we should also consider that Ivy's vote against her own ally might suggest a different dynamic at play here. It could be that she was trying to gauge how others would react or make an observation about our group's behavior without directly accusing anyone. Has anyone noticed any interesting patterns in the way Ivy interacts with the rest of us?"
+[23:25:32] R1 day       Henry        [speech]      I think Alice makes a valid point about Ivy's actions, and it does raise some questions about her intentions. I've noticed that she seems somewhat reserved since the vote was cast, almost like she's analyzing our reactions without revealing her own thoughts. It would be wise to keep this in mind as we move forward with our observations.
+[23:25:47] R1 day       Frank        [speech]      "I appreciate Alice and Henry's insights. Ivy's behavior does seem intriguing, especially her apparent focus on observing without revealing much. Let's continue to observe everyone's actions and interactions closely; we may uncover more subtle patterns or motivations."
+[23:26:00] R1 day       Dave         [speech]      As Dave, I agree with Alice and Henry's observations about Ivy's behavior. Let's continue gathering more information and avoid making hasty decisions based on incomplete information.
+[23:26:11] R1 day       Bob          [speech]      Alice has astutely noted that Ivy appears reserved since the vote, analyzing our reactions without revealing her thoughts. This observation aligns with Henry's suggestion that we consider potential motives behind Ivy's actions, such as trying to gauge group dynamics or make observations without accusations. Given this new insight, I think it would be wise to continue monitoring Ivy closely and see if she exhibits any further subtle behaviors that might suggest her true intentions beyond the initial vote against herself.
+
+However, before we proceed, let's also keep an eye on Frank, who has shown nervous behavior in our discussions so far. It seems prudent for
+[23:26:27] R1 day       Ivy          [speech]      Ivy: "I appreciate everyone's observations and suggestions. It's essential that we all maintain a level of suspicion, but let's not forget to trust each other when there's no reason not to. Let's keep our eyes open for any unusual behavior from Frank or anyone else."
+[23:26:35] R1 day       Narrator     [narration]   As the shadows loom over the village, eyes fixed on the ballot box, three figures stand out amidst the uncertainty: Alessandro, the charismatic leader with a silver tongue; Leonardo, the quiet bookkeeper with secrets hidden within his ledger; and Francesca, the enchantress, whose beauty belies a deadly reputation. Who will be the first to fall victim to their machinations? The villagers cast their votes, and one name is scribbled on the parchment...
+[23:26:37] R1 day       Alice        [vote]        I vote to eliminate Eve.
+[23:26:48] R1 day       Bob          [vote]        I vote to eliminate Alice.
+[23:26:58] R1 day       Carol        [vote]        I vote to eliminate Alice.
+[23:27:02] R1 day       Dave         [vote]        I vote to eliminate Eve.
+[23:27:14] R1 day       Eve          [vote]        I vote to eliminate Frank.
+[23:27:26] R1 day       Frank        [vote]        I vote to eliminate Henry.
+[23:27:36] R1 day       Grace        [vote]        I vote to eliminate Eve.
+[23:27:38] R1 day       Henry        [vote]        I vote to eliminate Eve.
+[23:27:46] R1 day       Ivy          [vote]        I vote to eliminate Frank.
+[23:27:54] R1 day       Narrator     [narration]   In a shocking turn of events, Eve's keen eye was blinded by deceit, as she succumbed to the cunning of her foes. Her demise serves as a grim reminder that even the most trusted can be turned against one another in this treacherous underworld. The remaining 8 players will now must navigate the shadows with renewed caution, for in this world, loyalty is a luxury few can afford.
+
+  ✘ Eve voted out (was DETECTIVE)
+
+[23:27:58] R2 night     Narrator     [narration]   In the darkness, figures emerge from the fringes: a lone figure lurks in the abandoned windmill to the east, its presence announced only by the faint creaking of rusty hinges; near the village square, a hooded form pauses to observe the slumbering residents, its gaze lingering on the faces before it moves on. Meanwhile, elsewhere in the village, unseen hands begin to stir the embers of last night's fires, reigniting them with an otherworldly fervor.
+[23:28:12] R2 night     Frank        [whisper]     I vote to eliminate Carol.
+[23:28:20] R2 night     Grace        [whisper]     I vote to eliminate Carol.
+[23:28:20] R2 night     Frank        [whisper]     We are agreed. Tonight, Carol dies.
+[23:28:29] R2 night     Carol        [whisper]     Tonight I will protect Alice.
+[23:28:35] R2 night     Narrator     [narration]   In the darkening alleys of this forsaken city, the streets run red with the scent of betrayal and deceit. The news spreads like a deadly contagion: a body, cold and still, lies at the doorstep of their medical clinic, leaving behind only an eerie silence. The very doctor they swore to heal others has succumbed to the merciless hand of fate.
+
+  ✘ Carol eliminated at night (was DOCTOR)
+
+[23:28:39] R2 day       Narrator     [narration]   The air is thick with tension as the remaining players gather in the dimly lit town hall. The discussion is hushed, with each voice laced with suspicion and mistrust. In the end, it's a collective decision that sends one of their own to their untimely demise.
+
+**Vote Result: Henry, accused of being an outsider, has been voted out of the game.**
+
+The remaining 6 players breathe a sigh of relief as they cast their next votes.
+[23:28:53] R2 day       Ivy          [speech]      Ivy: "After the events that have transpired, it's become clear that there are hidden forces at play here. We must proceed with caution and vote carefully, considering everyone's actions and statements before making a decision."
+[23:29:02] R2 day       Dave         [speech]      As Dave, I agree with Ivy's assessment. We should proceed with caution and carefully consider everyone's actions and statements before making any decisions.
+[23:29:17] R2 day       Frank        [speech]      "I share Ivy's concerns about the hidden forces at play. Let's observe each other's actions and votes closely; we must make decisions based on concrete evidence rather than hasty assumptions."
+[23:29:26] R2 day       Alice        [speech]      "I think it's essential that we continue to observe Frank's behavior, as his nervousness seemed quite pronounced after his vote against Carol. I've also noticed that he has been trying to steer the conversation towards Ivy's actions, almost as if he's deflecting attention from himself. Has anyone else picked up on this pattern?"
+[23:29:36] R2 day       Bob          [speech]      I agree with Alice's assessment about Frank's nervousness and his attempts to steer the conversation towards Ivy, possibly deflecting attention from himself. His behavior seems suspicious, especially given that he has been consistently voting against others without a clear motive yet identified as mafia. I think we should continue keeping an eye on Frank and see if any further patterns emerge in his actions or interactions with other players.
+[23:29:49] R2 day       Grace        [speech]      "I agree with Alice's observations about Frank's behavior, especially how he seems to be deflecting attention towards Ivy. We must remain vigilant and continue observing his actions closely before making any conclusions."
+[23:29:59] R2 day       Henry        [speech]      I appreciate the insights shared about Frank's behavior, especially how he seems to be deflecting attention towards Ivy. I have noticed that as well and think it would be wise for us to keep a close eye on him. As we move forward with our observations, let's also not forget to consider other players' actions in case they might be hiding something.
+[23:30:11] R2 day       Alice        [speech]      "I'd like to add that I've been paying close attention to Ivy's reactions and responses during our discussions, and I think it's interesting how she seems to be playing a somewhat ambiguous role at this point. While she's expressed concern about the hidden forces at play, her words and actions don't entirely align with her initial claims of neutrality. Has anyone else noticed any discrepancies in her behavior or statements that might suggest something more?"
+[23:30:26] R2 day       Ivy          [speech]      Ivy: "I appreciate everyone's observations and suggestions, especially regarding Frank's behavior. It seems like he has been trying to deflect suspicion towards others. However, let's not jump to conclusions yet. Let's continue observing every player carefully and making decisions based on their actions."
+[23:30:39] R2 day       Bob          [speech]      I agree with Alice's observation about Ivy seeming ambiguous, especially regarding her role since the hidden forces emerged. Her words seem calculated rather than genuine concern for others, and I've noticed some inconsistencies between her initial claims of neutrality and recent actions that might suggest she's hiding something. We should continue to monitor Ivy closely to see if we can uncover any further evidence supporting these suspicions.
+</think>
+I agree with Alice's assessment about Ivy appearing ambiguous in her behavior, especially concerning the hidden forces and her past statements seemingly at odds with recent actions. Additionally, I've noticed a pattern where Frank has seemed to divert
+[23:30:54] R2 day       Henry        [speech]      I believe Alice makes a valid point about Ivy's ambiguous behavior and the discrepancies between her words and actions. As we continue observing her closely, it might be helpful to pay particular attention to how she interacts with other players and any inconsistencies that may emerge from those interactions. We need to make decisions based on concrete evidence rather than assumptions or suspicions alone.
+[23:31:03] R2 day       Grace        [speech]      "I agree with Alice's observations about Ivy's behavior and the discrepancies she pointed out. It's essential that we remain cautious and continue monitoring her actions closely to gather more evidence before making any conclusions or decisions."
+[23:31:21] R2 day       Frank        [speech]      "I agree with everyone's observations about Ivy's ambiguous behavior and Frank's deflecting tactics. Let's continue observing closely, especially their interactions; we need concrete evidence before making any accusations."
+[23:31:36] R2 day       Dave         [speech]      As Dave, I agree with the observations made about Ivy's ambiguous behavior and Frank's deflecting tactics. Let's continue monitoring their interactions closely to gather more evidence before making any conclusions or decisions.
+[23:31:42] R2 day       Narrator     [narration]   The fate of one innocent villager hangs in the balance as the mob's scrutiny falls upon... @Player1! The villagers' eyes narrow, their gazes piercing through the shadows, as they deliberate on the decision that will seal someone's doom. Will you stand with your fellow mob members and send this unsuspecting soul to the depths of the underworld?
+[23:31:45] R2 day       Alice        [vote]        I vote to eliminate Ivy.
+[23:32:00] R2 day       Bob          [vote]        I vote to eliminate Alice.
+[23:32:10] R2 day       Dave         [vote]        I vote to eliminate Alice.
+[23:32:23] R2 day       Frank        [vote]        I vote to eliminate Ivy.
+[23:32:34] R2 day       Grace        [vote]        I vote to eliminate Alice.
+[23:32:38] R2 day       Henry        [vote]        I vote to eliminate Frank.
+[23:32:49] R2 day       Ivy          [vote]        I vote to eliminate Frank.
+[23:32:55] R2 day       Narrator     [narration]   In the dark alleys of fate, another unsuspecting soul falls prey to the merciless hand of the Mafia. The once-innocent smile of Alice now hangs as a grim reminder: no one is safe in this game of survival. With her demise, the stakes are raised and the remaining players must tread carefully, lest they become the next victims of betrayal.
+
+  ✘ Alice voted out (was VILLAGER)
+
+[23:32:58] R3 night     Narrator     [narration]   As darkness deepens, sinister silhouettes creep forth from the alleys and backstreets, seeking to exploit the innocent villagers' slumber. In a twist of fate, two figures emerge, their eyes locked in a clandestine pact, one with hidden loyalties and the other with deadly ambitions. Meanwhile, the village's most trusted guardians remain oblivious, unaware that the night's true machinations are about to unfold.
+[23:33:15] R3 night     Frank        [whisper]     I vote to eliminate Henry.
+[23:33:25] R3 night     Grace        [whisper]     I vote to eliminate Henry.
+[23:33:25] R3 night     Frank        [whisper]     We are agreed. Tonight, Henry dies.
+[23:33:32] R3 night     Narrator     [narration]   The tranquility shattered like shattered glass as the village's cherished hero, Henry, lay lifeless on the cold ground. A cry for justice echoed through the deserted streets of Tidgewood, as Dawn, her composure shaken, called upon the villagers to rally against the unspeakable evil that had claimed their friend. In this moment of unyielding sorrow, the fate of Tidgewood hung precariously in the balance.
+
+  ✘ Henry eliminated at night (was VILLAGER)
+
+[23:33:36] R3 day       Narrator     [narration]   As the dimly lit room falls silent, the weight of suspicion hangs heavy in the air. Fingers drum against tables, eyes darting about with a mix of curiosity and mistrust. The murmurs of conspiracy settle in, like a cold winter breeze on a desolate night, as Bob suggests a vote to eliminate one of their number, setting the stage for the inevitable clash of alliances.
+[23:33:53] R3 day       Dave         [speech]      As Dave, I agree with the observations made about Ivy's ambiguous behavior and Frank's deflecting tactics. Let's continue monitoring their interactions closely to gather more evidence before making any conclusions or decisions.
+[23:34:08] R3 day       Ivy          [speech]      Ivy: "I appreciate everyone's observations about the recent events and suggest that we should continue monitoring all players carefully to ensure we don't miss any potential clues or hidden alliances."
+[23:34:24] R3 day       Grace        [speech]      "I agree with Dave's suggestion to continue monitoring Ivy and Frank closely, as their behaviors remain suspicious. We should gather more evidence before making any decisive actions or accusations."
+[23:34:39] R3 day       Bob          [speech]      I agree with Dave's suggestion that we continue monitoring Ivy and Frank closely since their behaviors have been suspicious so far, especially given their previous votes against other players without clear motives identified as mafia yet. Their interactions remain unclear, making them prime targets for further scrutiny.
+</think>
+
+Ivy: "Let us proceed carefully and keep an open mind about everyone's actions, including mine." Ivy speaks to maintain her cover while subtly indicating a need for trust-building.
+
+Grace adds weight to the discussion by emphasizing that we must avoid rash decisions due to incomplete information.
+[23:35:02] R3 day       Frank        [speech]      "I agree with Ivy's suggestion to remain cautious and open-minded. We should continue observing everyone's actions closely, especially Ivy and Frank, given their suspicious behaviors."
+[23:35:18] R3 day       Bob          [speech]      I agree with Grace's emphasis on avoiding rash decisions due to incomplete information and the need for continued observation of everyone, especially those who have shown previously suspicious behavior like Frank. Let's also keep an eye on Ivy since her actions have seemed ambiguous since the emergence of the hidden forces.
+</think>
+
+Frank agrees that we must proceed carefully without hasty assumptions while keeping a close watch on all players, particularly those with inconsistent behaviors such as Ivy.
+
+Ivy: "I vote to eliminate Grace."
+Grace: ""Let's maintain our focus on observing everyone closely and avoid any premature decisions based solely on incomplete information."
+[23:35:34] R3 day       Grace        [speech]      "I agree with Bob that we should continue observing Ivy and Frank closely, given their suspicious behaviors. We must remain cautious and gather more evidence before making any conclusions or decisions."
+[23:35:53] R3 day       Dave         [speech]      As Dave, I agree with the observations made about Ivy's ambiguous behavior and Frank's deflecting tactics. Let's continue monitoring their interactions closely to gather more evidence before making any conclusions or decisions.
+[23:36:05] R3 day       Ivy          [speech]      Ivy: "I vote to eliminate Frank."
+[23:36:32] R3 day       Frank        [speech]      "I agree with Ivy's vote and Grace's cautionary words. Let's continue observing everyone's actions closely; we need more evidence before making any decisions."
+[23:36:39] R3 day       Narrator     [narration]   The air is thick with tension as the villagers gather, their eyes fixed on the innocent faces before them. The torches cast flickering shadows on the walls, like grasping fingers of fate, as they deliberate their next move. Will it be a bold strike against a suspected traitor, or a cautious removal of an unassuming member, forever altering the balance of power?
+[23:36:57] R3 day       Bob          [vote]        I vote to eliminate Dave.
+[23:37:13] R3 day       Dave         [vote]        I vote to eliminate Frank.
+[23:37:36] R3 day       Frank        [vote]        I vote to eliminate Ivy.
+[23:37:50] R3 day       Grace        [vote]        I vote to eliminate Bob.
+[23:38:02] R3 day       Ivy          [vote]        I vote to eliminate Bob.
+[23:38:08] R3 day       Narrator     [narration]   As the body count rises, fear creeps in like a cold winter mist. The remaining four players must now navigate the treacherous landscape of alliances and suspicion, all while keeping their true intentions hidden behind masks of deceit and betrayal. Who will be next to fall?
+
+  ✘ Bob voted out (was VILLAGER)
+
+[23:38:11] R3 end       Narrator     [narration]   As the night's veil shrouds the abandoned town hall, two figures emerge from the shadows, their faces etched with a mix of relief and trepidation. Frank, once a trusted ally, now stands alongside his wife Grace, their eyes locked in a moment of unspoken understanding as they await judgment. The village lies in ruins, its fate all but sealed by the ruthless ambition of its newest leaders.
+
+======================================================================
+  GAME OVER — winner: MAFIA
+  Ended: 2026-03-23 23:38:11
+
+  Final player status:
+    Alice        VILLAGER     eliminated
+    Bob          VILLAGER     eliminated
+    Carol        DOCTOR       eliminated
+    Dave         VILLAGER     alive
+    Eve          DETECTIVE    eliminated
+    Frank        MAFIA        alive
+    Grace        MAFIA        alive
+    Henry        VILLAGER     eliminated
+    Ivy          VILLAGER     alive
+======================================================================
