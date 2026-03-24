@@ -1,0 +1,297 @@
+======================================================================
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+  AI MAFIA TRANSCRIPT — 2026-03-23 22:19:59
+=
+
+  Roles assigned:
+    Alice        MAFIA
+    Bob          VILLAGER
+    Carol        VILLAGER
+    Dave         VILLAGER
+    Eve          DOCTOR
+    Frank        VILLAGER
+    Grace        DETECTIVE
+    Henry        VILLAGER
+    Ivy          MAFIA
+
+----------------------------------------------------------------------
+
+[22:20:07] R0 setup     Narrator     [narration]   In this web of deceit, alliances are forged and broken with each passing night, as the dimly lit shadows conceal the true intentions of its denizens. The air is thick with tension, as whispers spread like wildfire among the villagers, hinting at a presence lurking in the darkness. As the first light of dawn breaks, the fate of the village hangs precariously in the balance.
+[22:20:11] R1 day       Narrator     [narration]   The air is thick with tension as the 9 remaining players convene in hushed whispers. The topic of discussion centers around the recent string of mysterious events that have left many feeling uneasy, while others remain steadfast in their allegiances. As the murmurs die down, a single hand rises: Ivy's finger trembles above the button before coming to rest on... the Eliminate button, her fate now sealed.
+[22:20:22] R1 day       Grace        [speech]      "Let's remember that fear can be our greatest enemy right now, folks. I've noticed some strange patterns, and we need to look deeper at those who are acting suspiciously. We should focus on building trust within the group."
+[22:20:33] R1 day       Dave         [speech]      Dave: "Grace makes a valid point about fear clouding our judgment. Let's stay vigilant but not jump to conclusions. We need to observe actions more than just suspicions. Maybe we can start with looking at who's been acting differently lately?"
+[22:20:40] R1 day       Alice        [speech]      "I think Dave is wise to caution us against jumping to conclusions, but let's not forget that actions speak louder than words. We should be keeping an eye on those who have been vocal about their distrust of others, especially if it seems overly critical or targeted. Ivy's suggestion was a good one, and we should consider how her decision might impact our group dynamics."
+[22:20:53] R1 day       Eve          [speech]      Henry: "I agree with Grace's sentiment on building trust, but we must also remember that silence can be just as telling as words. Let's proceed cautiously and keep a close eye on those who remain unusually quiet."
+[22:25:52] R1 day       Bob          [speech]      I’m inclined to trust Grace’s push for building confidence among us, yet we must also scrutinize why Ivy chose to eliminate now—any pattern there could reveal the hidden threat.
+[22:26:24] R1 day       Carol        [speech]      Carol: "I think we need to take everyone's concerns seriously, but let's focus on observing who's acting differently or speaking in suspicious ways. Maybe Ivy's choice could be a clue, so let's analyze that pattern without jumping to conclusions. We should build trust but stay cautious—let's keep our eyes on those acting unusually."
+[22:26:37] R1 day       Henry        [speech]      "I agree with Grace, it’s crucial we focus on building trust within the group, and perhaps we should look at who's been overly vocal about their distrust or targeting others, especially after Ivy's decision."
+[22:27:29] R1 day       Ivy          [speech]      
+[22:27:45] R1 day       Frank        [speech]      As a Villager, I appreciate the cautious approach everyone is taking. I agree with Grace that fear can cloud our judgment and lead us astray. Let's focus on building trust, but also keep an eye out for any suspicious patterns or actions; it might be a key to unmasking the true Mafia members among us.
+[22:29:05] R1 day       Bob          [speech]      I’m leaning toward Grace’s call for trust, but I’m also watching Ivy’s pick—something about the way she hesitated before pulling the trigger could hint at a hidden motive. Anyone else notice if the person who just got eliminated had been unusually quiet or if there were any recent alliances that might have shaped that choice?
+[22:29:59] R1 day       Ivy          [speech]      
+[22:30:15] R1 day       Frank        [speech]      I agree with Bob's observation about Ivy's hesitation. It's intriguing, and it makes me wonder if there might be a pattern of suspicious behavior or hidden motives among those who are vocal about their distrust. Let's keep an eye on these patterns and try to build trust within the group, but also stay vigilant for any signs of Mafia activity.
+[22:30:22] R1 day       Alice        [speech]      "I think we're overanalyzing Ivy's decision just now, and it's easy to get caught up in trying to decipher motives when the truth might be much simpler. Let's take a step back and focus on building trust among ourselves, rather than speculating about others' actions."
+[22:30:36] R1 day       Carol        [speech]      Carol: "I think we're getting bogged down in too many details when we should be looking at the bigger picture. Let's focus on building trust within our group, and maybe that'll help us figure out who to trust. Instead of worrying about Ivy's choice, let's look at those who seem overly suspicious or are too quick to point fingers."
+[22:30:43] R1 day       Dave         [speech]      Dave: "Dave: "You're all right to be cautious, but let's not get bogged down in paranoia. Let's focus on those who are acting suspiciously, especially the ones who seem too quick to accuse others. Let's figure out who's trustworthy and who might be hiding something. Trust is key here, so let's keep an eye on those acting unusually or pointing fingers too much."
+[22:30:57] R1 day       Henry        [speech]      "I agree with Alice that we might be overanalyzing Ivy's decision for now, and I believe we should indeed step back and focus on building trust within the group. Perhaps by encouraging more open discussions without immediate accusations, we can foster a safer environment to identify potential threats later."
+[22:31:16] R1 day       Eve          [speech]      Grace: "Let's not forget our primary goal is to survive and unmask the true villains. Trust is vital, but we must also strategize our eliminations wisely. Who among us has shown consistent behavior or shared insights that prove their loyalty?"
+
+(Note: Grace in this context is advocating for careful strategy while trying to subtly assert her own trustworthiness by referencing shared insights.)
+[22:31:27] R1 day       Grace        [speech]      "Let's focus on the bigger picture, like Dave suggested, and try not to get bogged down in individual motives just yet. We should continue to encourage open discussions without immediate accusations, allowing us to build a stronger foundation of trust among ourselves."
+[22:31:34] R1 day       Narrator     [narration]   The village trembles with anticipation as the votes are cast, each one a whisper of fate hanging in the balance. The townspeople gather around the makeshift board, their faces lit only by the flickering flames that dance within the tavern's hearth. One name emerges from the murmur: (insert name here) - will it be enough to seal their fate?
+[22:31:35] R1 day       Alice        [vote]        I vote to eliminate Carol.
+[22:32:12] R1 day       Bob          [vote]        I vote to eliminate Carol.
+[22:32:35] R1 day       Carol        [vote]        I vote to eliminate Bob.
+[22:32:38] R1 day       Dave         [vote]        I vote to eliminate Carol.
+[22:32:49] R1 day       Eve          [vote]        I vote to eliminate Frank.
+[22:32:57] R1 day       Frank        [vote]        I vote to eliminate Eve.
+[22:33:06] R1 day       Grace        [vote]        I vote to eliminate Dave.
+[22:33:09] R1 day       Henry        [vote]        I vote to eliminate Eve.
+[22:33:42] R1 day       Ivy          [vote]        I vote to eliminate Bob.
+[22:33:51] R1 day       Narrator     [narration]   As the veil of deceit lifts, the shadows cast by Carol's demise reveal a faint outline of their treacherous intentions. The game continues with 8 players now walking a delicate balance between loyalty and betrayal, each one waiting for the perfect moment to strike next. Will their fellow travelers become the next pawns in this deadly dance?
+
+  ✘ Carol voted out (was VILLAGER)
+
+[22:33:55] R2 night     Narrator     [narration]   As darkness deepens, two figures emerge from the shadows: Victor "The Bull" LaRosa, his imposing frame a testament to his reputation as a ruthless enforcer, and Elara "The Siren" Morano, her piercing green eyes glinting with malevolent intent. Together, they creep towards their unsuspecting neighbors, unaware that their fates are about to be sealed. The village slumbers on, blissfully oblivious to the danger lurking among its residents.
+[22:33:57] R2 night     Alice        [whisper]     I vote to eliminate Dave.
+[22:34:39] R2 night     Ivy          [whisper]     I vote to eliminate Eve.
+[22:34:39] R2 night     Alice        [whisper]     We are agreed. Tonight, Dave dies.
+[22:34:53] R2 night     Eve          [whisper]     Tonight I will protect Alice.
+[22:35:03] R2 night     Grace        [whisper]     My investigation tonight focuses on Dave.
+[22:35:10] R2 night     Narrator     [narration]   A chilling silence has fallen over the makeshift village, as if the very breath has been extinguished from its inhabitants. The once-vibrant campsite now lies shrouded in an eerie gloom, the flickering flames of their makeshift fires casting ominous shadows on the faces of the survivors. Will they be able to regroup and avenge Dave's untimely demise?
+
+  ✘ Dave eliminated at night (was VILLAGER)
+
+[22:35:13] R2 day       Narrator     [narration]   The air is thick with tension as the remaining players convene in hushed whispers. The seeds of suspicion are sown, and alliances begin to fray. In a swift, decisive turn, Ivy votes to remove... Frank. The fate of one hangs precariously in the balance.
+[22:35:52] R2 day       Ivy          [speech]      
+[22:36:10] R2 day       Eve          [speech]      Grace: "While we grieve Dave's loss, let's remember our goal is survival. With Frank targeted now, we must strategize wisely. Perhaps this presents an opportunity to further assess loyalties."
+[22:36:24] R2 day       Frank        [speech]      As a Villager, I am shocked by the recent events and concerned about the growing tensions. Frank's elimination seems sudden, and I wonder if there might be more to uncover. Let's focus on building trust and investigating further; we need to ensure that our actions are justified and based on solid evidence.
+[22:36:33] R2 day       Alice        [speech]      "I think Frank's sudden elimination might be an opportunity for us to regroup and reassess our alliances, rather than jumping to conclusions or making assumptions about others' intentions. We should take a step back and focus on building trust among ourselves, rather than speculating about hidden motives."
+[22:36:48] R2 day       Henry        [speech]      "I agree with Grace that we must wisely strategize after Dave's loss and Frank's sudden elimination. Perhaps the key to survival lies not just in identifying potential threats but also in strengthening our bonds of trust, ensuring our actions are guided by evidence rather than assumptions."
+[22:36:57] R2 day       Grace        [speech]      "Let's take a moment to process the loss and not rush into any conclusions about Frank's elimination. We need to ensure that our future decisions are made with caution and based on solid evidence, rather than letting fear or suspicion guide us."
+[22:37:40] R2 day       Bob          [speech]      I’m leaning toward Grace’s push for careful trust, but I’m also intrigued by Ivy’s sudden vote
+[22:37:51] R2 day       Alice        [speech]      "I think we should be cautious not just of outsiders, but also among ourselves. Let's keep a close eye on how each of us is behaving and what information is being shared - it's possible that one of our own could be hiding something."
+[22:38:12] R2 day       Eve          [speech]      Eve: "With tensions rising, I propose we focus on building trust and share any insights gained during our night activities discreetly. Open communication will be key to unmasking the Mafia's cohorts."
+[22:39:05] R2 day       Bob          [speech]      
+[22:39:28] R2 day       Henry        [speech]      "I agree with Eve that open communication and discretion are essential now more than ever. Perhaps sharing insights gained from our night activities, done carefully and without accusation, could help us work together more effectively to unmask the Mafia's influence."
+[22:40:10] R2 day       Ivy          [speech]      
+[22:40:29] R2 day       Grace        [speech]      "Open communication and discretion are crucial right now. Let's encourage each other to share insights cautiously, focusing on patterns of behavior rather than making accusations. Together, we can build trust and unmask the Mafia."
+[22:40:45] R2 day       Frank        [speech]      I appreciate everyone's calm approach to this delicate situation. I agree with Alice and Grace that we should reassess our alliances and focus on building trust, especially after the sudden eliminations of Frank and Dave. Let's communicate openly but cautiously, sharing insights discreetly without jumping to conclusions; this might help us unmask any hidden threats.
+[22:40:52] R2 day       Narrator     [narration]   The villagers, weary from the whispers and suspicion that has shrouded their midst, have gathered around the sacred flame of the voting board. With a collective sense of trepidation, they cast their ballots, each one hoping to avoid being the chosen vessel for the darkness that lurks in the shadows. The fate of the village hangs precariously in the balance...
+[22:40:55] R2 day       Alice        [vote]        I vote to eliminate Eve.
+[22:41:40] R2 day       Bob          [vote]        I vote to eliminate Ivy.
+[22:42:05] R2 day       Eve          [vote]        I vote to eliminate Grace.
+[22:42:15] R2 day       Frank        [vote]        I vote to eliminate Alice.
+[22:42:27] R2 day       Grace        [vote]        I vote to eliminate Alice.
+[22:42:31] R2 day       Henry        [vote]        I vote to eliminate Eve.
+[22:43:09] R2 day       Ivy          [vote]        I vote to eliminate Bob.
+[22:43:17] R2 day       Narrator     [narration]   The lifeless body slumped to the cold, hardwood floor as the crowd gasped in unison. The doctor's scalpel, once wielded with precision and care, now lay shattered on the ground, a symbol of the deadly game that remains. The remaining six players exchange nervous glances, their eyes betraying a mix of fear and cunning as they consider their next move.
+
+  ✘ Eve voted out (was DOCTOR)
+
+[22:43:21] R3 night     Narrator     [narration]   In the dark of night, a lone figure lurks in the abandoned windmill on the outskirts of town. Meanwhile, in the local tavern, a hooded stranger sits huddled in a corner, their eyes fixed intently upon a rival faction. Unbeknownst to the village, a deadly game of cat and mouse unfolds, with innocent lives hanging precariously in the balance.
+[22:43:24] R3 night     Alice        [whisper]     I vote to eliminate Frank.
+[22:44:05] R3 night     Ivy          [whisper]     I vote to eliminate Frank.
+[22:44:05] R3 night     Alice        [whisper]     We are agreed. Tonight, Frank dies.
+[22:44:16] R3 night     Grace        [whisper]     My investigation tonight focuses on Frank.
+[22:44:23] R3 night     Narrator     [narration]   The sun had barely risen over the sleepy town, but already its tranquility had been shattered by a heinous crime. Frank's lifeless body lay on the cold pavement, a victim of a brutal assassination that would send shockwaves through the community. The question on everyone's mind: who could have committed such a dastardly act?
+
+  ✘ Frank eliminated at night (was VILLAGER)
+
+[22:44:25] R3 day       Narrator     [narration]   The air is thick with tension as our five players gather to discuss their fate. The whispers of betrayal swirl like the smoke from a distant chimney, as they deliberate among themselves. Will it be a ruthless purge or a carefully crafted alliance?
+[22:44:32] R3 day       Alice        [speech]      "I think we should focus on building trust within our little group and not jump to conclusions about Frank's elimination. Let's work together to create a safe environment where everyone feels comfortable sharing their thoughts and feelings."
+[22:45:28] R3 day       Bob          [speech]      
+[22:45:47] R3 day       Henry        [speech]      "I agree with Alice that we should prioritize rebuilding trust among us. By fostering an open, yet cautious environment, we may be able to prevent more unnecessary eliminations and uncover any hidden threats lurking within or outside our group."
+[22:46:00] R3 day       Grace        [speech]      "Let's not let fear dictate our decisions but rather focus on building a solid foundation of trust among ourselves, sharing insights carefully and without accusations. By doing so, we can better navigate these treacherous times and uncover the truth behind each other's actions."
+[22:46:46] R3 day       Ivy          [speech]      
+[22:47:39] R3 day       Bob          [speech]      I’m inclined to back Grace’s call for cautious trust, but I’m also watching Ivy’s sudden focus on Bob—there may be a hidden motive there that we should tease out before we let fear drive the next vote.
+[22:47:56] R3 day       Henry        [speech]      "I share Grace's sentiment on building trust and propose that we focus our discussions on shared observations rather than accusations, creating a safe space where everyone feels heard without fear of immediate retribution."
+[22:48:09] R3 day       Alice        [speech]      "I think we're all trying to do the right thing here, but let's not forget that Ivy's sudden interest in Bob could be a red flag. We should try to keep an eye on her behavior and see if it's just a coincidence or something more suspicious."
+[22:48:26] R3 day       Grace        [speech]      "Let’s remain vigilant of Ivy’s actions and words, but also encourage open communication without immediate accusations. By doing so, we create an environment where trust can grow and allow us to work together more effectively against the Mafia."
+[22:49:18] R3 day       Ivy          [speech]      
+[22:49:26] R3 day       Narrator     [narration]   The village stands at the precipice, divided by suspicion and deceit. The fate of one villager hangs in the balance as the town's leaders deliberate on who shall be cast out into the dark night. Will it be the newcomer with a mysterious past, or perhaps the seasoned veteran who's been hiding secrets behind their weathered smile?
+[22:49:30] R3 day       Alice        [vote]        I vote to eliminate Ivy.
+[22:50:41] R3 day       Bob          [vote]        I vote to eliminate Ivy.
+[22:50:57] R3 day       Grace        [vote]        I vote to eliminate Ivy.
+[22:51:03] R3 day       Henry        [vote]        I vote to eliminate Alice.
+[22:52:11] R3 day       Ivy          [vote]        I vote to eliminate Grace.
+[22:52:20] R3 day       Narrator     [narration]   In the aftermath of Ivy's demise, the remaining players stand frozen in unease, the whispered words of "we were played" hanging in the air like a specter of betrayal. The remaining 4 players must now steel themselves for the brutal game ahead, each suspecting they may be the next to fall from the high table. As alliances are forged and tempers fray, only time will tell who shall emerge victorious.
+
+  ✘ Ivy voted out (was MAFIA)
+
+[22:52:22] R4 night     Narrator     [narration]   In the darkness, silent assassins stalk their prey, waiting for the perfect moment to strike. Meanwhile, a lone figure creeps through the deserted streets, eyes fixed on a specific target. As the clock ticks closer to dawn, the first whispers of betrayal begin to spread like wildfire through the village.
+[22:52:27] R4 night     Alice        [whisper]     I vote to eliminate Henry.
+[22:52:40] R4 night     Grace        [whisper]     My investigation tonight focuses on Henry.
+[22:52:47] R4 night     Narrator     [narration]   The sun has set on this fateful day, casting a dark shadow over the once peaceful town. The cry of "Henry's Dead" echoes through the streets as the Villager trembles with grief, their fragile hopes and dreams shattered by the cruel hand of fate. As the news spreads like wildfire, whispers of suspicion begin to circulate, and alliances are tested in the crucible of tragedy.
+
+  ✘ Henry eliminated at night (was VILLAGER)
+
+[22:52:50] R4 day       Narrator     [narration]   The air is thick with tension as the three remaining players convene in hushed tones. Alice advocates for a cautious approach, hinting at potential deceit among their ranks, while Bob urges swift action, claiming one of them stands out like a sore thumb. Grace remains stoic, her eyes fixed intently on each of her companions, awaiting their next move.
+[22:54:17] R4 day       Bob          [speech]      
+[22:54:32] R4 day       Alice        [speech]      "I think we should proceed with caution and gather more information before making any rash decisions. Let's focus on Alice's suggestion of potential deceit among us, and share our thoughts without jumping to conclusions."
+[22:54:59] R4 day       Grace        [speech]      "Let's approach this with a cool head and not let fear dictate our decisions. We should continue to share insights cautiously, focusing on patterns of behavior rather than accusations, while keeping an eye out for any potential Mafia influence within our own group."
+[22:56:39] R4 day       Bob          [speech]      I’m inclined to back Alice’s call for careful info‑gathering, but I’m still wary of Grace’s relentless focus—she might be masking something. Let’s keep probing quietly and not let any one voice dominate the conversation.
+[22:56:56] R4 day       Alice        [speech]      "I think Bob's concern about Grace's focus is valid, but I also believe we should be cautious not to accuse her unnecessarily. Let's encourage open discussion and share our observations without labeling or accusing anyone directly."
+[22:57:17] R4 day       Grace        [speech]      "Let's continue encouraging an open, non-confrontational environment where everyone feels comfortable sharing their thoughts, keeping a balanced approach towards our observations and avoiding accusations against one another."
+[22:57:23] R4 day       Narrator     [narration]   The air is thick with tension as you consider your fate, the weight of the village's collective decision hanging precariously in the balance. The names are cast into the void, a whispered litany of doom: "Mafia." Their votes are counted, and now it's up to fate to decide who will be struck down, their lifeless body a grim reminder that loyalty is a luxury you can ill afford here.
+[22:57:29] R4 day       Alice        [vote]        I vote to eliminate Grace.
+[22:58:30] R4 day       Bob          [vote]        I vote to eliminate Grace.
+[22:58:47] R4 day       Grace        [vote]        I vote to eliminate Bob.
+[22:58:53] R4 day       Narrator     [narration]   In a shocking turn of fate, the cunning assassin has claimed another victim, leaving only two souls standing in the dark alleys of power. The air is thick with tension as Vinnie and Marco face off in a desperate bid for survival. Will one of them emerge victorious, or will the night prove to be their downfall?
+
+  ✘ Grace voted out (was DETECTIVE)
+
+[22:58:55] R4 end       Narrator     [narration]   In the shadows, the traitors reign supreme. Ivy's voice trembled with defiance as she stood alongside her fellow assassin, their names forever etched in the annals of terror. Now, the once-resolute villagers cowered, their screams silenced by the merciless hand of fate.
+
+======================================================================
+  GAME OVER — winner: MAFIA
+  Ended: 2026-03-23 22:58:55
+
+  Final player status:
+    Alice        MAFIA        alive
+    Bob          VILLAGER     alive
+    Carol        VILLAGER     eliminated
+    Dave         VILLAGER     eliminated
+    Eve          DOCTOR       eliminated
+    Frank        VILLAGER     eliminated
+    Grace        DETECTIVE    eliminated
+    Henry        VILLAGER     eliminated
+    Ivy          MAFIA        eliminated
+======================================================================
